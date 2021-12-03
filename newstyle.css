@@ -130,7 +130,7 @@ $breakpoint argument choices:
 }
 .topheader__wrap .topheader__background {
   position: absolute;
-  background-image: url(../img/img6.jpg);
+  background-image: url(img6.jpg);
   background-position: center;
   background-size: cover;
   height: 60rem;
@@ -149,7 +149,7 @@ $breakpoint argument choices:
 }
 .topheader__wrap .topheader__background__menu {
   position: absolute;
-  background-image: url(../img/img6.jpg);
+  background-image: url(img6.jpg);
   background-position: center;
   background-size: cover;
   height: 40rem;

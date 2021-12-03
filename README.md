@@ -1,1 +1,2 @@
-Does not support Chinese.
+index是最近練習的東西...
+另一個才是這次的申請書
